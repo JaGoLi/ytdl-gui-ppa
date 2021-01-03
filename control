@@ -8,5 +8,5 @@ Homepage: https://github.com/JaGoLi/ytdl-gui
 
 Package: youtubedl-gui
 Architecture: amd64
-Depends: ${shlibs:Depends}, ${misc:Depends}, qt5-default, qtdeclarative5-dev, youtube-dl, ffmpeg, hicolor-icon-theme, gtk-update-icon-cache
+Depends: ${shlibs:Depends}, ${misc:Depends}, qt5-default, youtube-dl, ffmpeg, hicolor-icon-theme, gtk-update-icon-cache
 Description: Download Youtube videos to local audio or video files.
