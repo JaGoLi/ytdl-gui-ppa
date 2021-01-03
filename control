@@ -2,7 +2,7 @@ Source: youtubedl-gui
 Section: utils
 Priority: optional
 Maintainer: Jason Goulet-Lipman <jason.gouletlipman@gmail.com>
-Build-Depends: build-essential, qt5-default, qtdeclarative5-dev
+Build-Depends: autotools-dev, autoconf, dpkg-dev, build-essential, qt5-default, qtdeclarative5-dev
 Standards-Version: 4.4.1
 Homepage: https://github.com/JaGoLi/ytdl-gui
 
