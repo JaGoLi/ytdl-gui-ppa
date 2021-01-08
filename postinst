@@ -1,2 +1,3 @@
 #! /bin/bash
+pip3 install youtube-dl
 gtk-update-icon-cache -f /usr/share/icons/*
