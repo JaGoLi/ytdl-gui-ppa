@@ -10,5 +10,5 @@ Package: youtubedl-gui
 Architecture: amd64
 Depends: ${shlibs:Depends}, ${misc:Depends}, qt5-default, python3-pip, ffmpeg, hicolor-icon-theme, gtk-update-icon-cache
 Conflicts: youtube-dl
-Recommends: ubuntu-restricted-addons, ubuntu-restricted-extras
+Recommends: ubuntu-restricted-addons
 Description: Download Youtube videos to local audio or video files.
