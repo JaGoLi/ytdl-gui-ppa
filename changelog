@@ -1,5 +1,5 @@
-youtubedl-gui (1.6-1focal) focal; urgency=medium
+youtubedl-gui (1.7-1focal) focal; urgency=medium
 
-  * Initial release - stable version 
+  * Added option to minimize progress bar while downloading.
 
  -- Jason Goulet-Lipman (Personal GPG key) <jason.gouletlipman@gmail.com>  Sat, 02 Jan 2021 21:37:41 -0500
