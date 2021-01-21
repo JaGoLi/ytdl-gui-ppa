@@ -1,5 +1,5 @@
 youtubedl-gui (1.8-1focal) focal; urgency=medium
 
-  * Added option to minimize progress bar while downloading.
+  * Added ability to close download in progress.
 
  -- Jason Goulet-Lipman (Personal GPG key) <jason.gouletlipman@gmail.com>  Sat, 02 Jan 2021 21:37:41 -0500
