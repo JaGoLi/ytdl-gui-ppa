@@ -1,5 +1,5 @@
-youtubedl-gui (1.9-1focal) focal; urgency=medium
+youtubedl-gui (2.0-1focal) focal; urgency=medium
 
-  * Added ability to close download in progress.
+  * Added checkbox to allow youtube-dl to select default options.
 
  -- Jason Goulet-Lipman (Personal GPG key) <jason.gouletlipman@gmail.com>  Sat, 02 Jan 2021 21:37:41 -0500
