@@ -2,13 +2,12 @@ Source: youtubedl-gui
 Section: utils
 Priority: optional
 Maintainer: Jason Goulet-Lipman <jason.gouletlipman@gmail.com>
-Build-Depends: build-essential, autoconf, automake, autotools-dev, dh-make, debhelper, devscripts, fakeroot, xutils, lintian, pbuilder, qt5-default, qtdeclarative5-dev
-Standards-Version: 4.4.1
+Build-Depends: build-essential, cmake, qtbase5-dev, qtdeclarative5-dev
 Homepage: https://github.com/JaGoLi/ytdl-gui
 
 Package: youtubedl-gui
 Architecture: amd64
-Depends: ${shlibs:Depends}, ${misc:Depends}, qt5-default, python3-pip, ffmpeg, hicolor-icon-theme, gtk-update-icon-cache
-Conflicts: youtube-dl
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-pip, ffmpeg, hicolor-icon-theme
+Conflicts: youtube-dl, youtubedl-gui
 Recommends: ubuntu-restricted-addons
 Description: Download Youtube videos to local audio or video files.

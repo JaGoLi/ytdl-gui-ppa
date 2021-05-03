@@ -1,5 +1,5 @@
-youtubedl-gui (2.0-1focal) focal; urgency=medium
+youtubedl-gui (2.5-1focal) focal; urgency=medium
 
-  * Added checkbox to allow youtube-dl to select default options.
+  * Fixed bugs and added vorbis codec option
 
  -- Jason Goulet-Lipman (Personal GPG key) <jason.gouletlipman@gmail.com>  Sat, 02 Jan 2021 21:37:41 -0500
