@@ -1,5 +1,5 @@
-youtubedl-gui (2.5-1focal) focal; urgency=medium
+youtubedl-gui (3.0-1focal) focal; urgency=medium
 
-  * Fixed bugs and added vorbis codec option
+  * Added new features and fixed bugs.
 
  -- Jason Goulet-Lipman (Personal GPG key) <jason.gouletlipman@gmail.com>  Sat, 02 Jan 2021 21:37:41 -0500

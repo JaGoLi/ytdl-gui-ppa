@@ -2,7 +2,7 @@ Source: youtubedl-gui
 Section: utils
 Priority: optional
 Maintainer: Jason Goulet-Lipman <jason.gouletlipman@gmail.com>
-Build-Depends: build-essential, cmake, qtbase5-dev, qtdeclarative5-dev
+Build-Depends: build-essential, cmake, qtbase5-dev
 Homepage: https://github.com/JaGoLi/ytdl-gui
 
 Package: youtubedl-gui
